@@ -6,11 +6,6 @@
 ### Data [[source]](https://www.kaggle.com/jeonghunyoon/dnn-classifier-for-forest-type/data)
 The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. You are asked to predict an integer classification for the forest cover type. 
 
-### Enviroment
-Tensorflow==1.14.0
-Keras
-neural_structured_learning
-
 ### Method
 1. Kaggle_NN_85.ipynb [[ipynb]](Kaggle_NN_85.ipynb)
   - Enviroment
