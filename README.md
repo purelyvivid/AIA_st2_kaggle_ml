@@ -3,8 +3,9 @@
 
 ## Kaggle 競賽 - DNN Classifier for Forest Type
 
-### Data [[source]](https://www.kaggle.com/jeonghunyoon/dnn-classifier-for-forest-type/data)
-The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. You are asked to predict an integer classification for the forest cover type. 
+### Data 
+The dataset is just subset from this [[source]](https://www.kaggle.com/jeonghunyoon/dnn-classifier-for-forest-type/data)
+Original source has >50000 instances. Here we just use partial (~15000 instances) .
 
 ### Method
 1. Kaggle_NN_85.ipynb [[ipynb]](Kaggle_NN_85.ipynb)
@@ -28,4 +29,3 @@ The study area includes four wilderness areas located in the Roosevelt National 
       - Train set: ~91%
       - Test set: ~87%     
       
-## Project : TBD   
